@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "D:\\Git\\ListViewPullToRefresh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_layout.xml",
+        "source": "D:\\Git\\ListViewPullToRefresh\\app\\src\\main\\res\\layout\\header_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\ListViewRefreshData\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\ListViewRefreshData\\app\\src\\main\\res\\layout\\header_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\ListViewRefreshData\\app\\build\\intermediates\\res\\merged\\debug\\layout\\footer_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\ListViewRefreshData\\app\\src\\main\\res\\layout\\footer_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\You\\Desktop\\github\\ListViewPullToRefresh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem.xml",
+        "source": "C:\\Users\\You\\Desktop\\github\\ListViewPullToRefresh\\app\\src\\main\\res\\layout\\listitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\github\\ListViewPullToRefresh_AS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\github\\ListViewPullToRefresh_AS\\app\\src\\main\\res\\layout\\listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\ListViewRefreshData\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\ListViewRefreshData\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "D:\\Git\\ListViewPullToRefresh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "D:\\Git\\ListViewPullToRefresh\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\You\\Desktop\\github\\ListViewPullToRefresh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview.xml",
+        "source": "C:\\Users\\You\\Desktop\\github\\ListViewPullToRefresh\\app\\src\\main\\res\\layout\\listview.xml"
+    },
+    {
+        "merged": "D:\\Git\\ListViewPullToRefresh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_activity.xml",
+        "source": "D:\\Git\\ListViewPullToRefresh\\app\\src\\main\\res\\layout\\main_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\ListViewRefreshData\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_activity.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\ListViewRefreshData\\app\\src\\main\\res\\layout\\main_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\You\\Desktop\\github\\ListViewPullToRefresh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\head_layout.xml",
+        "source": "C:\\Users\\You\\Desktop\\github\\ListViewPullToRefresh\\app\\src\\main\\res\\layout\\head_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\github\\ListViewPullToRefresh_AS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\github\\ListViewPullToRefresh_AS\\app\\src\\main\\res\\layout\\listitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\github\\ListViewPullToRefresh_AS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\head_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\github\\ListViewPullToRefresh_AS\\app\\src\\main\\res\\layout\\head_layout.xml"
+    }
+]
